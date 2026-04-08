@@ -6,7 +6,7 @@
 
 I am a data analytics professional with experience working with **machine learning, statistical modelling, and data visualisation** to uncover insights from complex datasets.
 
--- 
+---
 
 ## 📍 Currently
 Nottingham, UK — available immediately
