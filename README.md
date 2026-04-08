@@ -145,5 +145,4 @@ QGIS spatial mapping, Ordinal LASSO (CV R²=0.806)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Imesha%20Bandara-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imeshabandara/)
 
-GitHub  
-https://github.com/imeshaB
+🔗 **GitHub:** [imeshaB](https://github.com/imeshaB)
