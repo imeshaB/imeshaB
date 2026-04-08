@@ -6,7 +6,12 @@
 
 I am a data analytics professional with experience working with **machine learning, statistical modelling, and data visualisation** to uncover insights from complex datasets.
 
-My work focuses on transforming data into **clear insights that support decision-making**, particularly in areas such as **health analytics, urban data, and applied machine learning**.
+-- 
+
+## 📍 Currently
+Nottingham, UK — available immediately
+Open to Data Analyst and Data Science roles
+across public sector, finance, and analytics
 
 ---
 
@@ -46,9 +51,49 @@ Random Forest • Deep Learning (CNN) • Logistic Regression • Model Evaluati
 
 # 📂 Featured Projects
 
+---
+## 🏠 UK Housing Affordability: Trends, Regional Gaps & Forecast (2002–2029)
+
+End-to-end analytics project quantifying the structural deterioration of housing 
+affordability across **318 UK local authorities and 10 regions**, with validated 
+5-year regional forecasts and a production-grade Tableau dashboard.
+
+**The Problem**
+UK house prices have consistently outpaced earnings since 2002 — but aggregate 
+national figures mask pronounced regional inequality. This project quantifies 
+both the national trend and the regional divergence beneath it.
+
+**What I Did**
+- Cleaned and integrated multiple ONS datasets (7,255 rows, 318 local authorities)
+- Conducted regional time-series EDA with annotated trend decomposition
+- Compared 4 forecasting models under holdout and walk-forward validation
+- Generated validated 5-year regional forecasts (2025–2029)
+- Built a production Tableau dashboard with dynamic filters, LOD expressions, 
+  and an auto-updating insights narrative
+
+**Key Results**
+
+| Metric | Value |
+|---|---|
+| Affordability deterioration (2002–2024) | +57% (5.12x → 8.05x earnings) |
+| Forecast affordability (2029) | 8.43x earnings |
+| Best model RMSE | 0.51 (Rolling Mean, window=2) |
+| Walk-forward MAE | 0.4174 |
+| Walk-forward RMSE | 0.5437 |
+| Least affordable region (2024) | London — 12.39x earnings |
+| Most affordable region (2024) | North East — 4.79x earnings |
+
+**Skills Demonstrated**
+`Python` `Pandas` `Statsmodels` `Scikit-learn` `Time-Series Forecasting`
+`Walk-Forward Validation` `EDA` `Tableau` `LOD Expressions` `Data Storytelling`
+
+🔗 **Repository:** [UK Housing Affordability Analysis](https://github.com/imeshaB/UK-Housing-Affordability-Analysis)
+
+---
+
 ## 🧠 Breast Cancer Image Classification Using Deep Learning
 
-Deep learning model for classifying breast cancer images as **benign or malignant**.
+Deep learning model for classifying breast cancer images as **benign or malignant**. Achieved 94.2% classification accuracy on held-out test set using CNN with XAI explainability layer
 
 **Key methods**
 
@@ -57,8 +102,7 @@ Deep learning model for classifying breast cancer images as **benign or malignan
 - Model training and evaluation
 - Explainable AI techniques
 
-🔗 Repository  
-https://github.com/imeshaB/BreastCancerDeepLearningModel
+🔗 **Repository:** [BreastCancerDeepLearningModel](https://github.com/imeshaB/BreastCancerDeepLearningModel)
 
 ---
 
@@ -73,30 +117,18 @@ Exploratory data analysis of the Breast Cancer dataset to identify **patterns an
 - Feature distribution analysis
 - Correlation analysis
 
-🔗 Repository  
-https://github.com/imeshaB/Breast-Cancer-Exploratory-Data-Analysis-EDA-
+🔗 **Repository:** [Breast-Cancer-Exploratory-Data-Analysis-EDA-](https://github.com/imeshaB/Breast-Cancer-Exploratory-Data-Analysis-EDA-)
 
 ---
 
-# 🚧 Upcoming Projects
+## 🌿 Green Shift–Health Shift: Greenspace & Health Nexus
+Research project investigating the relationship between greenspace access and health deprivation across 96 English Local Authority Districts.
 
-## 🏠 UK Housing Affordability Dashboard
+**Methods:** Random Forest + SHAP, Spearman correlation, 
+QGIS spatial mapping, Ordinal LASSO (CV R²=0.806)
 
-Interactive **Tableau dashboard** analysing housing affordability trends across UK regions.
 
-Focus areas:
-
-- Price-to-income ratio comparisons
-- Regional affordability patterns
-- Housing price trends
-
----
-
-## 🌳 Greenspace and Health Deprivation Analysis
-
-Machine learning and spatial analysis project examining **greenspace accessibility and health deprivation across England**.
-
-This research project is currently **under academic publication preparation** and will be shared once the paper is published.
+`Python` `R` `QGIS` `Random Forest` `SHAP` `Spatial Analysis`
 
 ---
 
